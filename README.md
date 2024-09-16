@@ -1,4 +1,13 @@
+## 京东云48元一年服务器还送一千京豆, 赶紧啦
+![img_5.png](/images/jd_cloud.png)
+京东云主机，安全稳定，性能强劲，2核2G3M服务器低至48元一年,新客下单立返一千京豆。
+手慢无, 活动地址: [点我直达](https://3.cn/2-5ajMYS) 
+或者手机扫码下单:
+![img_5.png](/images/jd_qr_code.png)
+
+
 # jd_scripts(京东脚本)
+
 ##  京东免费上车地址: [https://jdc.52hym666.top](https://jdc.52hym666.top/)
 
 ## TG群: https://t.me/lulegemao
@@ -19,6 +28,10 @@
    ![img_5.png](/images/img_5.png)
 7. 京豆可以干嘛?
 ![img_6.png](/images/img_6.png)
+
+
+
+
 
 ##   特别提醒
 - 如果发现手机上的京东登录状态失效, 则及时到[https://jdc.52hym666.top](https://jdc.52hym666.top/)重新提交CK!
