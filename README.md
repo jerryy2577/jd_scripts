@@ -11,6 +11,9 @@
 - **或者手机扫码下单**:
 ![img_5.png](/images/jd_qr_code.png)
 
+![img_5.png](/images/jd1.png)
+![img_5.png](/images/jd2.png)
+
 # jd_scripts(京东脚本)
 
 ##  京东免费上车地址: [https://jdc.52hym666.top](https://jdc.52hym666.top/)
