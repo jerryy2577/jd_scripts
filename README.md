@@ -11,8 +11,8 @@
 - **或者手机扫码下单**:
 ![img_5.png](/images/jd_qr_code.png)
 
-![img_5.png](/images/jd1.png)
-![img_5.png](/images/jd2.png)
+![img_5.png](/images/jd1.jpg)
+![img_5.png](/images/jd2.jpg)
 
 # jd_scripts(京东脚本)
 
