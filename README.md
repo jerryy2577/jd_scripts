@@ -1,18 +1,9 @@
-## 京东云48元一年服务器还送一千京豆, 赶紧啦, 每天中午12点补货
-![img_5.png](/images/jd_cloud.png)
-- **京东云主机，安全稳定，性能强劲。**
-  
-- **2核2G3M服务器低至48元一年, 立返一千京豆。**
 
-- **25元半年返现一千京豆, 相当于15元半年。**
-
-- **手慢无, 活动地址: [点我直达](https://3.cn/2-5BnXNv)**
-  
-- **或者手机扫码下单**:
-![img_5.png](/images/jd_qr_code.png)
-
-![img_5.png](/images/jd1.jpg)
-![img_5.png](/images/jd2.jpg)
+11.11无门槛红，最高11111等你来抢
+京东11.11，又便宜又好
+抢购链接: [https://u.jd.com/C6Qcpds](https://u.jd.com/C6Qcpds)
+或者复制全文，打开京东: 16:/￥E25We7yx1SNs5LRt￥，⇒⤴īng◴凍抢紅包，购痛快~最高11111元紅包等你来！
+![002f9035e5102bedd87177dbbb6bd5f](https://github.com/user-attachments/assets/4e5dc47e-1caf-4b1b-95d5-158dd8020585)
 
 # jd_scripts(京东脚本)
 
