@@ -1,9 +1,5 @@
 
-11.11无门槛红，最高11111等你来抢
-京东11.11，又便宜又好
-抢购链接: [https://u.jd.com/C6Qcpds](https://u.jd.com/C6Qcpds)
-或者复制全文，打开京东: 16:/￥E25We7yx1SNs5LRt￥，⇒⤴īng◴凍抢紅包，购痛快~最高11111元紅包等你来！
-![002f9035e5102bedd87177dbbb6bd5f](https://github.com/user-attachments/assets/4e5dc47e-1caf-4b1b-95d5-158dd8020585)
+全平台购物优惠:  [https://fanli.52hym666.top/](https://fanli.52hym666.top/)
 
 # jd_scripts(京东脚本)
 
