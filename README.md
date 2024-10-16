@@ -1,6 +1,6 @@
 
 # 全平台购物优惠:  [https://fanli.52hym666.top/](https://fanli.52hym666.top/)
-# 双十一必看: https://www.52hym666.top/articles/2024/10/15/1728955994536.html
+# 双十一必看: https://www.52hym666.top
 # jd_scripts(京东脚本)
 
 ##  京东免费上车地址: [https://jdc.52hym666.top](https://jdc.52hym666.top/)
