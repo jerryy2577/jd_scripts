@@ -1,4 +1,5 @@
-
+# [上车教程](https://www.52hym666.top/archives/jing-dong-yang-mao-mian-fei-shang-che-jiao-cheng)
+# [代码仓库](https://github.com/jerryy2577/jd403)
 # 全平台购物优惠:  [https://fanli.52hym666.top/](https://fanli.52hym666.top/)
 # 双十一必看: https://www.52hym666.top
 # jd_scripts(京东脚本)
